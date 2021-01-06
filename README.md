@@ -6,4 +6,4 @@ It's a sphere calculator that asks for the radius of a sphere and then calculate
 - **Instance members**: All methods are instance methods inside the Calculator class.
 - **Static members**: All methods are static methods inside the Calculator class.
 
-![Sphere calculator](./img/sphere.png)
+![Sphere calculator](./wwwroot/img/sphere.png)
