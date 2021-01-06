@@ -1,0 +1,13 @@
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\bin\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.exe
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\bin\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.deps.json
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\bin\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.runtimeconfig.json
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\bin\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.runtimeconfig.dev.json
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\bin\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.dll
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\bin\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.pdb
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\obj\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.csprojAssemblyReference.cache
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\obj\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.AssemblyInfoInputs.cache
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\obj\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.AssemblyInfo.cs
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\obj\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.csproj.CoreCompileInputs.cache
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\obj\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.dll
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\obj\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.pdb
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.ProgramDependent\obj\Debug\netcoreapp3.1\Personal.Calculator.ProgramDependent.genruntimeconfig.cache

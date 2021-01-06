@@ -1,0 +1,13 @@
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\bin\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.exe
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\bin\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.deps.json
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\bin\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.runtimeconfig.json
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\bin\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.runtimeconfig.dev.json
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\bin\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.dll
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\bin\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.pdb
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\obj\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.csprojAssemblyReference.cache
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\obj\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.AssemblyInfoInputs.cache
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\obj\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.AssemblyInfo.cs
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\obj\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\obj\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.dll
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\obj\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.pdb
+C:\Users\staut\source\repos\Calculator_OOP\Personal.Calculator.StaticMember\obj\Debug\netcoreapp3.1\Personal.Calculator.StaticMembers.genruntimeconfig.cache
